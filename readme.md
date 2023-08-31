@@ -20,3 +20,7 @@
 * **/api/v1/localfileupload**
   * upload file locally on server
   * Create an entry in database
+
+> Nodemailer is used to send an email to the user on successful upload.
+
+![1693459903626](image/readme/1693459903626.png)
